@@ -103,16 +103,17 @@ python-dotenv
 ```text
 What is the weather in Chennai?
 ```
+<img width="846" height="833" alt="Screenshot 2026-09-14 001649" src="https://github.com/user-attachments/assets/bac7ebed-0bb1-4fdf-984f-a8ae82ca9d36" />
 
-
-
-### Example 2: Mumbai Weather
+### Example 2: Hydrabad Weather
 
 **Question:**
 
 ```text
-How is the weather in Mumbai?
+How windy is it in Hydrabad?
 ```
+
+<img width="803" height="836" alt="Screenshot 2026-09-14 211125" src="https://github.com/user-attachments/assets/89785d5c-870c-4446-93c6-1d504304ef7f" />
 
 The application retrieves the current weather information for Mumbai and displays the result in the chat interface.
 
