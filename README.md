@@ -115,6 +115,14 @@ How windy is it in Hydrabad?
 
 <img width="803" height="836" alt="Screenshot 2026-09-14 211125" src="https://github.com/user-attachments/assets/89785d5c-870c-4446-93c6-1d504304ef7f" />
 
+
+### You can now view my Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+
+  
+  Network URL: http://10.89.102.91:8501
+
 The application retrieves the current weather information for Mumbai and displays the result in the chat interface.
 
 ## API Used
